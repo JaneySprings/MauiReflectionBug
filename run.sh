@@ -1,0 +1,1 @@
+dotnet build -t:run -f:net6.0-ios -p:_DeviceName=0000DEVICE0000-00000ID0000 /p:RuntimeIdentifier=ios-arm64 -c release
